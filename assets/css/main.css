@@ -2480,7 +2480,7 @@ input, select, textarea {
 					display: block;
 					color: #ddd;
 					text-decoration: none;
-					height: 44px;
+					height: 100%;
 					line-height: 44px;
 					border: 0;
 					border-top: solid 1px #3c3c3c;
